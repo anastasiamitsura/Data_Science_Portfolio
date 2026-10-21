@@ -2,7 +2,7 @@
 
 **Language:** [🇷🇺 Русский](./README.md) | 🇬🇧 English
 
-### [CV / Resume](./CV_Mitsura_Anastasiia.pdf)
+### [CV / Resume](./CV_Mitsura_Anastasiia_eng.pdf)
 
 ## Project and Competition Timeline
 
