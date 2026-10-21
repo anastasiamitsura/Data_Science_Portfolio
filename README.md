@@ -1,6 +1,8 @@
 # Data Science Portfolio
 
-## 🗓️ Хронология проектов и соревнований
+### [Резюме(CV)](./CV_Mitsura_Anastasiia.pdf)
+
+## Хронология проектов и соревнований
 
 ### 2025 — DANO Hackathons
 
