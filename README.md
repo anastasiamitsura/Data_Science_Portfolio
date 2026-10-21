@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-### [Резюме(CV)](.CV_Mitsura_Anastassia.pdf)
+### [Резюме(CV)](./CV_Mitsura_Anastassia.pdf)
 
 ## Хронология проектов и соревнований
 
